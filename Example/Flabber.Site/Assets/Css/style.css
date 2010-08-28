@@ -1,0 +1,65 @@
+body
+{
+	background-color: #353535;
+	font-family: Arial;
+	color: #FFFFFF;
+	font-size: 1em;
+}
+
+#container
+{
+	margin: 0 auto;
+	width:700px;
+	border: solid 1px #AAFF00;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 10px;
+}
+
+#logo { float:left;}
+#toolbar {float:right;}
+#flabber { font-size:1.3em;}
+a { color:White;}
+
+/* Add entry */
+#addbox
+{
+	width:350px;
+	padding: 10px;
+	font-size:1em;
+	background-color:#2e2e2e;
+	border: solid 3px #AAFF00;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#addbox .left
+{
+	float:left;
+	width:150px;
+	color:White;
+	font-weight:bold;
+	font-size:0.9em;
+}
+
+/* Toolbar */
+#toolbar a { outline: 0px;}
+
+/* Lists */
+#list .delete,.title,.calories
+{
+	float:left;
+	padding: 0 0 0 5px;
+}
+#list .title
+{
+	width:200px;
+}
+
+/* Calendar box */
+#datepicker-container
+{
+	display:none;
+	font-size:0.7em;
+	position:absolute;
+}
