@@ -1,6 +1,6 @@
 # Bottlebank 
 
-![](https://github.com/yetanotherchris/bottlebank/blob/master/images/logo.png)
+![](https://github.com/yetanotherchris/bottlebank/blob/master/logo.png)
 
 ## Welcome
 
@@ -82,6 +82,6 @@ You'll need Visual Studio 2010.
 
 The fastest way to get the Flabber example working, assuming you have SQLExpress installed, is to create the database as shown in the images below. It should "just work" then, set the flabber.site as the startup project and hit F5.
 
-![](https://github.com/yetanotherchris/bottlebank/blob/master/images/step1.png)
-![](https://github.com/yetanotherchris/bottlebank/blob/master/images/step2.png)
-![](https://github.com/yetanotherchris/bottlebank/blob/master/images/step3.png)
+![](https://github.com/yetanotherchris/bottlebank/blob/master/step1.png)
+![](https://github.com/yetanotherchris/bottlebank/blob/master/step2.png)
+![](https://github.com/yetanotherchris/bottlebank/blob/master/step3.png)
